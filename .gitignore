@@ -1,0 +1,10 @@
+node_modules
+dist
+release
+storybook-static
+.history
+.DS_Store
+debug.log
+storybook-static
+package-lock.json
+.idea

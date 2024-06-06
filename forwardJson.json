@@ -1,0 +1,8 @@
+{
+  "serviceMapper": {
+    "github-contributions": {
+      "method": "get",
+      "url": "https://github-contributions.vercel.app/api/v1/cairongquan"
+    }
+  }
+}
